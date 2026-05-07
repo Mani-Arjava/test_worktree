@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
-"""Simple Hello World script.
-
-This module prints a greeting message to standard output.
-"""
+"""Simple Hello World program in Python. Demonstrates basic print functionality."""
 
 
 def main():
-    """Main entry point for the script."""
+    """Main entry point of the program."""
     print("Hello, World!")
 
 
