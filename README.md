@@ -1,27 +1,15 @@
-# Hello World - Python
+# Java Hello World
 
-A simple Hello World program written in Python to demonstrate basic Python script execution.
+A simple Java Hello World application.
 
-## Requirements
-
-Python 3.6 or higher
-
-## Usage
-
-Run using the Python interpreter:
+## Compilation
 
 ```bash
-python3 hello.py
+javac HelloWorld.java
 ```
 
-Or execute directly (if executable permission is set):
+## Execution
 
 ```bash
-./hello.py
-```
-
-## Expected Output
-
-```
-Hello, World!
+java HelloWorld
 ```
